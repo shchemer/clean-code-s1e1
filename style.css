@@ -146,20 +146,20 @@ body {
 
 /* Completed */
 .todo__tasks_complete .todo-task__name {
-  text-decoration:line-through;
-  color:#888;
+  text-decoration: line-through;
+  color: #888;
 }
 
 /* Edit Task */
 .todo-task__input {
-  display:none
+  display: none
 }
 
 .todo-task_edit-mode .todo-task__input {
   display: inline-block;
-  width:224px
+  width: 224px
 }
 
 .todo-task_edit-mode .todo-task__name {
-  display:none;
+  display: none;
 }
